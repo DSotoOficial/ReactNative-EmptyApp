@@ -14,6 +14,7 @@ Es el punto de partida de algunas apps en ReactNative
 [Encrypted Storage](https://www.npmjs.com/package/react-native-encrypted-storage)
 [TanStack Query](https://tanstack.com/query/latest/docs/framework/react/installation)
 [react-native-share](https://www.npmjs.com/package/react-native-share)
+[React Native Vector Icons](https://github.com/oblador/react-native-vector-icons#installation)
 
 
 ## Recomendaciones - Suggestions
